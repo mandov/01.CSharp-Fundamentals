@@ -1,3 +1,3 @@
- CSharp-Part-1
+<strong> CSharp-Part-1</strong>
 
-<img src="https://cdn.codementor.io/assets/tutors/c-sharp-tutors-online.png" align="center">
+<img src="https://cdn.codementor.io/assets/tutors/c-sharp-tutors-online.png" align="middle">
